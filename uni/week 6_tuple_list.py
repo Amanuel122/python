@@ -1,0 +1,5 @@
+knights=( 'robin','galahad','boris', 'bedevere',)
+print(knights)
+print(knights[0])
+print(knights[-1])
+print(knights[2])
